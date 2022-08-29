@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/imohib168/product-card)
-- Live Site URL: [Live Demo](https://product-card-m.netlify.app.com)
+- Live Site URL: [Live Demo](https://product-card-m.netlify.app/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Users should be able to:
 ## Author
 
 - Github - [Mohib Ismail](https://github.com/imohib168)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/imohib168)
+- Frontend Mentor - [@imohib168](https://www.frontendmentor.io/profile/imohib168)
